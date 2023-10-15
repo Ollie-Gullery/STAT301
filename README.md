@@ -2,6 +2,12 @@
 Group Project for STAT301
 
 Author: Riddhi Battu
+
+Group Members:
+Sam Thorne
+Kourosh Shahbazi
+Oliver Gullery
+
 ### **Vancouver Crime Report Dataset**
 
 #### **Source**
