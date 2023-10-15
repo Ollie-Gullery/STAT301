@@ -1,6 +1,7 @@
 # STAT301
 Group Project for STAT301
 
+Author: Riddhi Battu
 ### **Vancouver Crime Report Dataset**
 
 #### **Source**
