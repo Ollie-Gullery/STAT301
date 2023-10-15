@@ -21,7 +21,6 @@ For this assignment, the original dataset from Kaggle, which covered crime recor
 To fit within GitHub's 25 MB file size limit, the dataset was filtered to include only records from the years 2014 and 2019. This was done to examine changes over a 5-year gap. The filtering was performed using the `pandas` library in Python, and as a result, the size of the dataset was reduced to 6.4 MB.
 
 #### **Characteristics**
-- **Number of Observations**: 624039
 - **Number of Variables**: 10
 
 #### **Variables**:
